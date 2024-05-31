@@ -1,6 +1,6 @@
 package com.ps;
 
-public class PhillyCheeseSteakSandwich extends Sandwich{
+public class PhillyCheeseSteakSandwich extends Sandwich {
     public PhillyCheeseSteakSandwich() {
         super(8, "white", true);
         addTopping(new Topping("Steak", true, 3.0));

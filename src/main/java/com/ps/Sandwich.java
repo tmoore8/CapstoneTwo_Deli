@@ -59,7 +59,6 @@ public class Sandwich extends Product {
 
     @Override
     public String getDescription() {
-        return String.format("%d\" Sandwich on %s bread, Toasted: %b, Toppings: %s",
-                size, breadType, toasted, toppings.toString());
+        return String.format("%d\" Sandwich on %s bread, Toasted: %b, Toppings: %s", size, breadType, toasted, toppings.toString());
     }
 }

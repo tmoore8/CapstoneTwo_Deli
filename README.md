@@ -42,7 +42,7 @@ Features
 Interesting Code
 --
 ![img_11.png](src/main/java/com/ps/img_11.png)
-Inside the Order class the 'saveReceipt()' and 'generateFileName()' work in tandem to save the Order to a file. The 'generateFileName()' dynamically generates a unique file name based on the current date and time, while the 'saveReceipt()' method writes the order details to the file with formatted prices, and handles any potential IOExceptions. I found thus interesting because it demonstrates how to handle creation of new files in Java. 
+Inside the Order class the 'saveReceipt()' and 'generateFileName()' work in tandem to save the Order to a file. The 'generateFileName()' dynamically generates a unique file name based on the current date and time, while the 'saveReceipt()' method writes the order details to the file with formatted prices, and handles any potential IOExceptions. I found this interesting because it demonstrates how to handle creation of new files in Java. 
 
 
 

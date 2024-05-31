@@ -24,5 +24,6 @@ public abstract class Product {
     public void setPrice(double price) {
         this.price = price;
     }
+
     public abstract String getDescription();
 }
