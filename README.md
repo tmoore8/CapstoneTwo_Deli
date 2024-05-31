@@ -10,19 +10,29 @@ Features
 --
 **Main Menu**
 ![img.png](src/main/java/com/ps/img.png)
+
 **Starting a new Order**
+
 ![img_1.png](src/main/java/com/ps/img_1.png)
 
 **Adding a Signature Sandwich**
+
 ![img_2.png](src/main/java/com/ps/img_2.png)
+
 **Adding Chips**
+
 ![img_3.png](src/main/java/com/ps/img_3.png)
 
 **Adding a Drink**
+
 ![img_4.png](src/main/java/com/ps/img_4.png)
+
 **Checking Out**
+
 ![img_5.png](src/main/java/com/ps/img_5.png)
+
 **Adding a Custom Sandwich**
+
 ![img_6.png](src/main/java/com/ps/img_6.png)
 ![img_7.png](src/main/java/com/ps/img_7.png)
 ![img_8.png](src/main/java/com/ps/img_8.png)
