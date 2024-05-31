@@ -1,5 +1,0 @@
-Order Details:
-8" Sandwich on white bread, Toasted: true, Toppings: [Bacon (Premium), Cheddar (Premium), Lettuce, Tomato, Ranch]: $11.00
-Doritos: $1.50
-Fanta Large: $2.00
-Total Cost: $14.50
