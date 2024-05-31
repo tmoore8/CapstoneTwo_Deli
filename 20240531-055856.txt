@@ -1,0 +1,5 @@
+Order Details:
+8" Sandwich on Rye bread, Toasted: true, Toppings: [Steak (Premium), Swiss (Premium), Mushrooms, Au Jus]: $12.50
+Pringles: $1.50
+Sprite medium: $2.00
+Total Cost: $16.00

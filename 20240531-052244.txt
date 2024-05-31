@@ -1,0 +1,7 @@
+Order Details:
+8" Sandwich on white bread, Toasted: true, Toppings: [Bacon (Premium), Cheddar (Premium), Lettuce, Tomato, Ranch] - $11.0
+8" Sandwich on white bread, Toasted: true, Toppings: [Steak (Premium), American Cheese (Premium), Peppers, Mayo] - $12.5
+Coke small - $2.0
+Dr. Pepper  medium - $2.0
+Doritos - $1.5
+Total Cost: $29.0

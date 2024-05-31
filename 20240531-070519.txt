@@ -1,0 +1,3 @@
+Order Details:
+8" Sandwich on wheat bread, Toasted: true, Toppings: [Roast Beef (Premium), Roast Beef (Extra) (Premium), yes (Premium), yes (Extra) (Premium)]: $13.10
+Total Cost: $13.10

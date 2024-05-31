@@ -1,0 +1,3 @@
+Order Details:
+12" Sandwich on wrap bread, Toasted: true, Toppings: [Ham (Premium), Swiss (Premium), Swiss (Extra) (Premium)] - $16.15
+Total Cost: $16.15
